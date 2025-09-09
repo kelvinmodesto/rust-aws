@@ -1,5 +1,6 @@
+
 [package]
-name = "rust-aws-playground"
+name = "rust-aws"
 version = "0.1.0"
 edition = "2024"
 
